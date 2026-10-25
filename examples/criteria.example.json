@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "title_include": [],
+  "title_exclude": [],
+  "location_include": [],
+  "location_exclude": [],
+  "work_modes": [],
+  "min_required_years": null,
+  "max_required_years": null,
+  "include_unknown_experience": true,
+  "weighted_terms": []
+}

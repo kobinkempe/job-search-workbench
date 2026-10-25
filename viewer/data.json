@@ -1,0 +1,279 @@
+{
+  "notice": "All initial employers, listings, excerpts and research states are invented for a generic portfolio demonstration. No personal search profile is included.",
+  "jobs": [
+    {
+      "id": "sample-01",
+      "title": "Data Analyst",
+      "company": "Harborlight Exhibitions",
+      "role_family": "Data",
+      "industry": "Arts & culture",
+      "status": "reviewed",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Build visitor attendance dashboards and explain patterns to the exhibitions team.",
+      "description": "Build visitor attendance dashboards and explain patterns to the exhibitions team.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Which data sources can the analyst access?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-02",
+      "title": "Service Designer",
+      "company": "Meadowline Learning",
+      "role_family": "Design",
+      "industry": "Education",
+      "status": "needs_review",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Map how learners discover and use the service; test improvements with users.",
+      "description": "Map how learners discover and use the service; test improvements with users.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Does this role include hands-on visual design as well as service research?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-03",
+      "title": "Operations Coordinator",
+      "company": "Paperboat Museum",
+      "role_family": "Operations",
+      "industry": "Arts & culture",
+      "status": "reviewed",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Coordinate event schedules, visitor services and routine supplier orders.",
+      "description": "Coordinate event schedules, visitor services and routine supplier orders.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "How are event and visitor-service duties divided?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-04",
+      "title": "Quality Assurance Analyst",
+      "company": "Lantern Games Studio",
+      "role_family": "Quality assurance",
+      "industry": "Games",
+      "status": "needs_review",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Plan exploratory tests and record reproducible issues across supported devices.",
+      "description": "Plan exploratory tests and record reproducible issues across supported devices.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Which testing is manual and which is automated?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-05",
+      "title": "Customer Support Specialist",
+      "company": "Brookfield Tools",
+      "role_family": "Customer support",
+      "industry": "Software",
+      "status": "reviewed",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Investigate customer questions and document repeat problems for the product team.",
+      "description": "Investigate customer questions and document repeat problems for the product team.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Which support channels and coverage hours are expected?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-06",
+      "title": "Research Assistant",
+      "company": "Elmbridge Research Co-op",
+      "role_family": "Research",
+      "industry": "Research services",
+      "status": "missing_source",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "",
+      "description": "A title was collected, but its supporting source text has not been captured.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Can the original posting and full responsibilities be found?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-07",
+      "title": "Technical Writer",
+      "company": "Copperleaf Robotics",
+      "role_family": "Writing",
+      "industry": "Manufacturing",
+      "status": "reviewed",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Maintain clear setup guides and troubleshooting instructions for robotics operators.",
+      "description": "Maintain clear setup guides and troubleshooting instructions for robotics operators.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Who reviews the technical accuracy of the documentation?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-08",
+      "title": "Software Engineer",
+      "company": "Dovetail Archive",
+      "role_family": "Engineering",
+      "industry": "Arts & culture",
+      "status": "needs_review",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Develop web tools that help collections teams catalog and retrieve digital records.",
+      "description": "Develop web tools that help collections teams catalog and retrieve digital records.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Does the role focus on infrastructure, interfaces or both?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-09",
+      "title": "Project Coordinator",
+      "company": "Tidepool Civic Works",
+      "role_family": "Project coordination",
+      "industry": "Community services",
+      "status": "reviewed",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Track project milestones and prepare clear status updates for partner organizations.",
+      "description": "Track project milestones and prepare clear status updates for partner organizations.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Which decisions belong to the coordinator and which to the project lead?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-10",
+      "title": "Field Technician",
+      "company": "Mossbank Instruments",
+      "role_family": "Technical services",
+      "industry": "Environmental monitoring",
+      "status": "needs_review",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Install monitoring instruments and keep accurate service and calibration records.",
+      "description": "Install monitoring instruments and keep accurate service and calibration records.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "What training and field safety arrangements are provided?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-11",
+      "title": "Data Analyst",
+      "company": "Pinecone Supply Collective",
+      "role_family": "Data",
+      "industry": "Distribution",
+      "status": "needs_review",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Analyze inventory movement and investigate gaps between planned and actual stock.",
+      "description": "Analyze inventory movement and investigate gaps between planned and actual stock.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "How much of the work involves reporting compared with forecasting?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-12",
+      "title": "Operations Coordinator",
+      "company": "Juniper Community Kitchen",
+      "role_family": "Operations",
+      "industry": "Food services",
+      "status": "reviewed",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Coordinate kitchen schedules and maintain the operating checklist for community events.",
+      "description": "Coordinate kitchen schedules and maintain the operating checklist for community events.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Which responsibilities require direct food-handling certification?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-13",
+      "title": "Service Designer",
+      "company": "Meadowline Learning",
+      "role_family": "Design",
+      "industry": "Education",
+      "status": "needs_review",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Map how learners discover and use the service; test improvements with users.",
+      "description": "Map how learners discover and use the service; test improvements with users.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Is this the same opening as the other captured record?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-14",
+      "title": "Data Analyst",
+      "company": "Harborlight Exhibitions",
+      "role_family": "Data",
+      "industry": "Arts & culture",
+      "status": "reviewed",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Build visitor attendance dashboards and explain patterns to the exhibitions team.",
+      "description": "Build visitor attendance dashboards and explain patterns to the exhibitions team.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Does this repeat refer to the same requisition?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-15",
+      "title": "Exhibition Designer",
+      "company": "Paperboat Museum",
+      "role_family": "Design",
+      "industry": "Arts & culture",
+      "status": "needs_review",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Design accessible exhibition layouts and test how visitors move through a space.",
+      "description": "Design accessible exhibition layouts and test how visitors move through a space.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "Does this role own physical fabrication or coordinate with external fabricators?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    },
+    {
+      "id": "sample-16",
+      "title": "Research Operations Assistant",
+      "company": "Elmbridge Research Co-op",
+      "role_family": "Operations",
+      "industry": "Research services",
+      "status": "needs_review",
+      "source_url": "",
+      "checked_at": "",
+      "source_excerpt": "Coordinate study schedules and keep research materials organized for the team.",
+      "description": "Coordinate study schedules and keep research materials organized for the team.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+      "open_questions": [
+        "The title differs between records; can the exact role and current availability be confirmed?",
+        "For a real result, confirm the original employer page and whether the opening is still active."
+      ]
+    }
+  ],
+  "desc": {
+    "sample-01": "Build visitor attendance dashboards and explain patterns to the exhibitions team.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-02": "Map how learners discover and use the service; test improvements with users.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-03": "Coordinate event schedules, visitor services and routine supplier orders.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-04": "Plan exploratory tests and record reproducible issues across supported devices.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-05": "Investigate customer questions and document repeat problems for the product team.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-06": "A title was collected, but its supporting source text has not been captured.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-07": "Maintain clear setup guides and troubleshooting instructions for robotics operators.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-08": "Develop web tools that help collections teams catalog and retrieve digital records.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-09": "Track project milestones and prepare clear status updates for partner organizations.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-10": "Install monitoring instruments and keep accurate service and calibration records.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-11": "Analyze inventory movement and investigate gaps between planned and actual stock.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-12": "Coordinate kitchen schedules and maintain the operating checklist for community events.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-13": "Map how learners discover and use the service; test improvements with users.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-14": "Build visitor attendance dashboards and explain patterns to the exhibitions team.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-15": "Design accessible exhibition layouts and test how visitors move through a space.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer.",
+    "sample-16": "Coordinate study schedules and keep research materials organized for the team.\n\nThis is an invented portfolio example, created to demonstrate research review. It is not a job advertisement or a description of a real employer."
+  }
+}
