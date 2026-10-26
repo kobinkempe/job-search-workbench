@@ -8,7 +8,7 @@ A workbench for turning a broad research question into a collection you can insp
 
 [Open the live demo](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/job-search-workbench/) · [Read the case study](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/case-studies/job-search-workbench/)
 
-![Generic research workbench](docs/screenshots/desktop.png)
+![Generic research workbench](docs/screenshots/desktop.jpg)
 
 The initial collection contains **16 fictional records** across data, design, operations, writing, research and other general role families. Employers, excerpts and review states are invented. It includes repeats and missing evidence to make the comparison tools useful. There is no personal target profile, preferred location, compensation baseline, resume or application history in this public demo.
 
