@@ -1,20 +1,20 @@
-# Job Search Workbench
+# Job Listing Research
 
 **Give AI the research. Keep the evidence.**
 
-A workbench for turning a broad research question into a collection you can inspect. Brief an AI agent with web access, ask it to find and read original job postings, then bring its structured results back here to compare responsibilities, source evidence, repeated listings and unanswered questions.
+A search tool for job listings. Brief an AI agent with web access to find and read original job postings, then bring its structured results back here to compare responsibilities, source evidence, repeated listings and unanswered questions. It only finds and organizes listings.
 
 ## Public demo
 
-[Open the live demo](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/job-search-workbench/) · [Read the case study](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/case-studies/job-search-workbench/)
+[Open the live demo](https://kobinkempe.pages.dev/job-search-workbench/) · [Read the case study](https://kobinkempe.pages.dev/case-studies/job-search-workbench/)
 
-![Generic research workbench](docs/screenshots/desktop.jpg)
+![Job Listing Research with fictional listings](docs/screenshots/desktop.jpg)
 
 The initial collection contains **16 fictional records** across data, design, operations, writing, research and other general role families. Employers, excerpts and review states are invented. It includes repeats and missing evidence to make the comparison tools useful. There is no personal target profile, preferred location, compensation baseline, resume or application history in this public demo.
 
 ## Why I built it
 
-A title or search snippet is not enough to understand an opening. The original project made AI-assisted research and a messy set of source records easier to inspect. The generic portfolio version presents that useful loop without reproducing the owner’s search: ask a question, research it, preserve sources, and question the result.
+A title or search snippet is not enough to understand an opening. The original project made AI-assisted research and a messy set of source records easier to inspect. The generic portfolio version presents that useful loop without reproducing my own search: ask a question, research it, preserve sources, and question the result.
 
 ## Try the workflow
 
