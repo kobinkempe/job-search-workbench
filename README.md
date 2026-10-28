@@ -6,7 +6,7 @@ A search tool for job listings. Brief an AI agent with web access to find and re
 
 ## Public demo
 
-[Open the live demo](https://kobinkempe.pages.dev/job-search-workbench/) · [Read the case study](https://kobinkempe.pages.dev/case-studies/job-search-workbench/)
+[Open the live demo](https://kobinkempe.pages.dev/job-search-workbench/) · [See project details](https://kobinkempe.pages.dev/projects/job-search-workbench/)
 
 ![Job Listing Research with fictional listings](docs/screenshots/desktop.jpg)
 
